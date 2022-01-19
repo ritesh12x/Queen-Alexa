@@ -1,8 +1,8 @@
 {
-"name": "Queen-Alexa",
-  "description": "Lightweight WhatsApp Bot",
-  "repository": "https://github.com/HYPER-MOD/Queen-Alexa",
-  "logo": "https://www.linkpicture.com/q/HYPER-MOD-LOGO.jpg",
+"name": "Sonu-Novita-Bot",
+  "description": "Jasper WhatsApp Bot",
+  "repository": "https://github.com/ritesh12x/Queen-Alexa",
+  "logo": "https://www.linkpicture.com/q/IMG_20220119_092122.jpg",
   "keywords": ["bot", "whatsapp", "whatsapp-bot"],
 
     "buildpacks": [
